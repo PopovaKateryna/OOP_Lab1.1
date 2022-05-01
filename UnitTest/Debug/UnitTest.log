@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest.cpp
+C:\Users\KATERYNA\Desktop\Лабораторні\Labb1.1\Labb1.1\CProgression.cpp(52,32): warning C4244: аргумент: преобразование "const unsigned int" в "float", возможна потеря данных
+     Создается библиотека C:\Users\KATERYNA\Desktop\Лабораторні\Labb1.1\Debug\UnitTest.lib и объект C:\Users\KATERYNA\Desktop\Лабораторні\Labb1.1\Debug\UnitTest.exp
+  UnitTest.vcxproj -> C:\Users\KATERYNA\Desktop\Лабораторні\Labb1.1\Debug\UnitTest.dll
